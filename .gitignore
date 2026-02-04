@@ -1,0 +1,7 @@
+# Ignore specific generated outputs
+notebooks/Allbrands_202612_output_4thFeb.csv
+notebooks/Allbrands_202712_output_4thFeb.csv
+notebooks/Allbrands_202812_output_4thFeb.csv
+
+# Jupyter noise
+.ipynb_checkpoints/
